@@ -19,3 +19,5 @@ Config/testthat/edition: 3
 Imports: 
     stats,
     base
+URL: https://github.com/rbitrage/finfun
+BugReports: https://github.com/rbitrage/finfun/issues
