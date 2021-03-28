@@ -1,13 +1,13 @@
 Package: finfun
 Title: Financial Functions
-Version: 0.1.0.0000
+Version: 0.1.0.0001
 Authors@R: 
     person(given = "Harald",
            family = "Kaba",
            role = c("aut", "cre"),
            email = "rbitrage@economix.at")
-Description: A first attempt to implement basic versions of common financial 
-    functions.
+Description: Deutschsprachige, unvollstaendige Sammlung finanzmathematischer
+    Funktionen in jeweils einfachster Form, laufend erweitert.
 License: GPL (>= 3)
 Encoding: UTF-8
 LazyData: true
